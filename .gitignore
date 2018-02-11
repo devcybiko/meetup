@@ -3,3 +3,4 @@ RemoteSystemsTempFiles/
 */.classpath
 */.settings/
 */target/
+.metadata/
