@@ -1,0 +1,5 @@
+RemoteSystemsTempFiles/
+*/.project
+*/.classpath
+*/.settings/
+*/target/
