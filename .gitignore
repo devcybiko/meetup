@@ -4,3 +4,4 @@ RemoteSystemsTempFiles/
 */.settings/
 */target/
 .metadata/
+node_modules/
